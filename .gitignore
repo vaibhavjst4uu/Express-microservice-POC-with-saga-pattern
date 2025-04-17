@@ -1,0 +1,5 @@
+api-gateway/node_modules
+backend1/node_modules
+backend2/node_modules
+backend3/node_modules
+notification/node_modules
